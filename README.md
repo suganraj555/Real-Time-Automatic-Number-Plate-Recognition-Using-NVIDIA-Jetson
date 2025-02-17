@@ -7,9 +7,6 @@ An AI-powered system for real-time vehicle number plate detection and recognitio
 - **Edge Deployment**: Runs efficiently on NVIDIA Jetson Orin Nano.  
 - **Data Logging**: Saves recognized plate numbers into a CSV file for record-keeping.  
 
-## 📷 System Workflow  
-![System Workflow](image.png)  
-
 ## 🛠️ Tech Stack  
 - **YOLOv8** - License plate detection  
 - **PaddleOCR** - Text recognition  
